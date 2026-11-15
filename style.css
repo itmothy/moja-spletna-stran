@@ -24,3 +24,7 @@ p {
 img {
     max-width: 60%;
 }
+
+ol {
+    border: 2px solid darkgray;
+}
