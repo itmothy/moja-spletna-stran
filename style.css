@@ -4,7 +4,6 @@ body {
 }
 
 * {
-    color: white;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
@@ -16,9 +15,16 @@ h2 {
     margin-bottom: 0px;
 }
 
-p {
+h1, h2 {
+    color:aqua;
+    font-size: 1.3rem;
+}
+
+p, ol, ul, figcaption {
     text-align: justify;
     margin-top: 5px;
+    color: white;
+    font-size: 14px;
 }
 
 img {
