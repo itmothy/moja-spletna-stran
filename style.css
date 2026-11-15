@@ -1,3 +1,22 @@
+body {
+    background-color: #151515;
+    max-width: fit-content;
+}
+
+* {
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
 h1 {
     text-align: center;
+}
+
+h2 {
+    margin-bottom: 0px;
+}
+
+p {
+    text-align: justify;
+    margin-top: 5px;
 }
